@@ -1,4 +1,4 @@
-# howSonosWorks
+# How Sonos Works
 
 Ukrainian version
 
